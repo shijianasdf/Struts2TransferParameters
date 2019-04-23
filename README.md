@@ -1,2 +1,2 @@
 # Struts2TransferParameters
-dgefh
+Struts2传参规则Demo
