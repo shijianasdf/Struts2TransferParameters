@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class SearchDbAccurateTable{   
 	private String tableName;
-	// 精确匹配，根据多个条件，返回一个 table
+	// 精确匹配，根据多个条件，返回一个 hql指令
 	//
 	// 参数说明
 	// 1-3.	conn, dbName, tableName 望文生意
@@ -43,7 +43,7 @@ public class SearchDbAccurateTable{
 		return mysqlStr;
 	}
 	
-	// 精确匹配，根据单个条件，返回一个 table
+	// 精确匹配，根据单个条件，返回一个 hql指令
 	//
 	// 参数说明
 	// 1-3.	conn, dbName, tableName 望文生意
