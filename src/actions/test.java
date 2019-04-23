@@ -12,7 +12,7 @@ public class test {
 		System.out.println(mysqlStr1); //select new beans.student(name,score) from student where id='student000001';
 		
 		SearchDbAccurateTable sdt = new SearchDbAccurateTable("student"); //student table
-		String selectedCols = "new beans.student(name,score)";
+		String selectedCols = "select new beans.student(name,score)";
 		ArrayList<String> keyCols = new ArrayList<String>();
 		keyCols.add("name");
 		keyCols.add("sex");
