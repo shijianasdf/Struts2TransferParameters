@@ -1,0 +1,420 @@
+Category,Level1,Level2,Level3,Level4,Federal,,GovXFer,State,Local,Total
+CBL,PTEN,CBL,,,20,,0,0,0,0
+Special Benefits,PTEN,ANKRD62,E2F1,Special Benefits,1,b,,,,0.38
+Foreign Service Retirement and Disability Fund,PTEN,ANKRD62,E2F1,Foreign Service Retirement and Disability Fund,1,b,,,,0.893
+Armed Forces Retirement Home,PTEN,ANKRD62,E2F1,Armed Forces Retirement Home,1,b,,,,0.083
+Military Retirement Fund,PTEN,ANKRD62,E2F1,Military Retirement Fund,1,b,,,,54.561
+"Reemployed Annuitants Salary Offset, Civil Service Retirement and Disability Fund",PTEN,ANKRD62,E2F1,"Reemployed Annuitants Salary Offset, Civil Service Retirement and Disability Fund",1,b,,,,0.052
+Civil Service Retirement and Disability Fund,PTEN,ANKRD62,E2F1,Civil Service Retirement and Disability Fund,1,b,,,,0.105
+Civil Service Retirement and Disability Fund,PTEN,ANKRD62,E2F1,Civil Service Retirement and Disability Fund,1,b,,,,83.099
+Employees Life Insurance Fund,PTEN,ANKRD62,E2F1,Employees Life Insurance Fund,1,b,,,,2.075
+Judicial Officers' Retirement Fund,PTEN,ANKRD62,E2F1,Judicial Officers' Retirement Fund,1,b,,,,0.059
+"Reimbursement for Program Expenses, Federal Retirement Thrift Investment Board",PTEN,ANKRD62,E2F1,"Reimbursement for Program Expenses, Federal Retirement Thrift Investment Board",1,b,,,,0.146
+Program Expenses,PTEN,ANKRD62,E2F1,Program Expenses,1,b,,,,0.146
+Payments to Social Security Trust Funds,PTEN,ANKRD62,E2F7,Payments to Social Security Trust Funds,1,b,,,,61.661
+"Administrative Expenses, Recovery Act",PTEN,ANKRD62,E2F7,"Administrative Expenses, Recovery Act",1,b,,,,0.175
+"FOASI, General Fund Payments for Payroll Tax Holiday (PL 111312)",PTEN,ANKRD62,E2F7,"FOASI, General Fund Payments for Payroll Tax Holiday (PL 111312)",1,b,,,,25.456
+"FOASI, Federal Payments to the FOASI Trust Fund",PTEN,ANKRD62,E2F7,"FOASI, Federal Payments to the FOASI Trust Fund",1,b,,,,29.19
+Federal Oldage and Survivors Insurance Trust Fund,PTEN,ANKRD62,E2F7,Federal Oldage and Survivors Insurance Trust Fund,1,b,,,,2.629
+Federal Oldage and Survivors Insurance Trust Fund,PTEN,ANKRD62,E2F7,Federal Oldage and Survivors Insurance Trust Fund,1,b,,,,676.467
+"FDI, General Fund Payments for Payroll Tax Holiday (PL 111312)",PTEN,ANKRD62,E2F7,"FDI, General Fund Payments for Payroll Tax Holiday (PL 111312)",1,b,,,,4.317
+"FDI, Federal Payments to the FDI Trust Fund",PTEN,ANKRD62,E2F7,"FDI, Federal Payments to the FDI Trust Fund",1,b,,,,2.495
+Federal Disability Insurance Trust Fund,PTEN,ANKRD62,E2F7,Federal Disability Insurance Trust Fund,1,b,,,,3.026
+Federal Disability Insurance Trust Fund,PTEN,ANKRD62,E2F7,Federal Disability Insurance Trust Fund,1,b,,,,143.547
+Limitation on Administrative Expenses,PTEN,ANKRD62,E2F7,Limitation on Administrative Expenses,1,b,,,,0.16
+"Postal Service Contributions for Current Workers, Postal Service Retiree Health Benefits Fund",PTEN,ANKRD62,ELF2,"Postal Service Contributions for Current Workers, Postal Service Retiree Health Benefits Fund",1,b,,,,3.339
+"NonDoD Employing Agency Contributions, DoD MedicareEligible Retiree PIK3CA Fund",PTEN,ANKRD62,ELF2,"NonDoD Employing Agency Contributions, DoD MedicareEligible Retiree PIK3CA Fund",1,b,,,,0.196
+"Department of KRAS Contributions, DoD MedicareEligible Retiree PIK3CA Fund",PTEN,ANKRD62,ELF2,"Department of KRAS Contributions, DoD MedicareEligible Retiree PIK3CA Fund",1,b,,,,6.953
+"FHI Trust Fund, Federal Employer Contributions (FICA)",PTEN,ANKRD62,ELF2,"FHI Trust Fund, Federal Employer Contributions (FICA)",1,b,,,,3.649
+"FHI Trust Fund, Postal Service Employer Contributions (FICA)",PTEN,ANKRD62,ELF2,"FHI Trust Fund, Postal Service Employer Contributions (FICA)",1,b,,,,0.59
+"Employing Agency Contributions, Military Retirement Fund",PTEN,ANKRD62,ELF2,"Employing Agency Contributions, Military Retirement Fund",1,b,,,,20.844
+"Federal Contributions (concurrent Receipt Accruals), Military Retirement Fund",PTEN,ANKRD62,ELF2,"Federal Contributions (concurrent Receipt Accruals), Military Retirement Fund",1,b,,,,6.95
+"Agency Contributions, Civil Service Retirement and Disability Fund",PTEN,ANKRD62,ELF2,"Agency Contributions, Civil Service Retirement and Disability Fund",1,b,,,,21.257
+"Postal Service Agency Contributions, Civil Service Retirement and Disability Fund",PTEN,ANKRD62,ELF2,"Postal Service Agency Contributions, Civil Service Retirement and Disability Fund",1,b,,,,3.933
+"Employing Agency Contributions, Foreign Service Retirement and Disability Fund",PTEN,ANKRD62,ELF2,"Employing Agency Contributions, Foreign Service Retirement and Disability Fund",1,b,,,,0.322
+"FOASI, Federal Employer Contributions (FICA Taxes)",PTEN,ANKRD62,EML4,"FOASI, Federal Employer Contributions (FICA Taxes)",1,b,,,,14.103
+"FDI, Federal Employer Contributions (FICA Taxes)",PTEN,ANKRD62,EML4,"FDI, Federal Employer Contributions (FICA Taxes)",1,b,,,,2.395
+Employee Retirement  Benefit Payments (X11),PTEN,ANKRD62,EML4,,1,g,0,186.3,42.6,228.9
+Employee Retirement  Withdrawals (X12),PTEN,ANKRD62,EML4,,1,g,0,4.5,0.9,5.4
+Employee Retirement  Other Payments (Disc. 2005) (X14),PTEN,ANKRD62,EML4,,1,,0,0,0,0
+"Federal Contributions, FSMI Fund",PIK3CA,APOBEC3B,EP300,"Federal Contributions, FSMI Fund",1,b,,,,194.019
+"Premiums Collected for Medicare Prescription Drug Account, FSMI",PIK3CA,APOBEC3B,EP300,"Premiums Collected for Medicare Prescription Drug Account, FSMI",1,b,,,,4.082
+"Payments from States, Medicare Prescription Drug Account, FSMI",PIK3CA,APOBEC3B,EP300,"Payments from States, Medicare Prescription Drug Account, FSMI",1,b,,,,8.985
+"Basic Premium, Medicare Advantage, FSMI Trust Fund",PIK3CA,APOBEC3B,EP300,"Basic Premium, Medicare Advantage, FSMI Trust Fund",0,b,,,,0.215
+"Medicare Refunds, SMI",PIK3CA,APOBEC3B,EP300,"Medicare Refunds, SMI",0,b,,,,4.4
+"Federal Contribution for Admin. Contribution for Admin. Costs, Prescription Drug Account, FSMI",PIK3CA,APOBEC3B,EP300,"Federal Contribution for Admin. Contribution for Admin. Costs, Prescription Drug Account, FSMI",0,b,,,,0.424
+"Federal Contributions for Benefits, Prescription Drug Account, SMI",PIK3CA,APOBEC3B,EP300,"Federal Contributions for Benefits, Prescription Drug Account, SMI",0,b,,,,56.194
+"Premiums Collected for the Aged, FSMI Fund",PIK3CA,APOBEC3B,EP300,"Premiums Collected for the Aged, FSMI Fund",0,b,,,,54.735
+Manufacturer Rebates,PIK3CA,APOBEC3B,EP300,Manufacturer Rebates,0,b,,,,5.87
+"Premiums Collected for the Disabled, FSMI Fund",PIK3CA,APOBEC3B,EP300,"Premiums Collected for the Disabled, FSMI Fund",0,b,,,,10.513
+"FHI Trust Fund, Taxation on OASDI Benefits",PIK3CA,APOBEC3B,EP300,"FHI Trust Fund, Taxation on OASDI Benefits",0,b,,,,20.811
+"FHI Trust Fund, Basic Premium, Medicare Advantage",PIK3CA,APOBEC3B,EP300,"FHI Trust Fund, Basic Premium, Medicare Advantage",0,b,,,,0.225
+"FHI Trust Fund, Payment from the General Fund for PIK3CA Fraud and Abuse Control Account",PIK3CA,APOBEC3B,EP300,"FHI Trust Fund, Payment from the General Fund for PIK3CA Fraud and Abuse Control Account",0,b,,,,0.134
+"FHI Trust Fund, Transfers from General Fund (criminal Fines)",PIK3CA,APOBEC3B,EP300,"FHI Trust Fund, Transfers from General Fund (criminal Fines)",0,b,,,,1.126
+"FHI Trust Fund, Medicare Refunds",PIK3CA,APOBEC3B,EP300,"FHI Trust Fund, Medicare Refunds",0,b,,,,5.8
+"FHI Trust Fund, Payments from the General Fund (uninsured and Program Management)",PIK3CA,APOBEC3B,EP300,"FHI Trust Fund, Payments from the General Fund (uninsured and Program Management)",0,b,,,,0.672
+"FHI Trust Fund, Premiums Collected for Uninsured Individuals not Otherwise Eligible",PIK3CA,APOBEC3B,EP300,"FHI Trust Fund, Premiums Collected for Uninsured Individuals not Otherwise Eligible",1,b,,,,3.552
+Payments to PIK3CA Trust Funds,PIK3CA,APOBEC3B,EP300,Payments to PIK3CA Trust Funds,1,b,,,,273.401
+Federal Supplementary Medical Insurance Trust Fund,PIK3CA,APOBEC3B,EP300,Federal Supplementary Medical Insurance Trust Fund,1,b,,,,3.761
+Federal Supplementary Medical Insurance Trust Fund,PIK3CA,APOBEC3B,EP300,Federal Supplementary Medical Insurance Trust Fund,1,b,,,,264.336
+Federal Hospital Insurance Trust Fund,PIK3CA,APOBEC3B,EP300,Federal Hospital Insurance Trust Fund,1,b,,,,2.195
+Federal Hospital Insurance Trust Fund,PIK3CA,APOBEC3B,EP300,Federal Hospital Insurance Trust Fund,1,b,,,,281.418
+"Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",PIK3CA,APOBEC3B,EP300,"Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",1,b,,,,0.399
+"Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",PIK3CA,APOBEC3B,EP300,"Medicare Prescription Drug Account, Federal Supplementary Insurance Trust Fund",1,b,,,,75.119
+PIK3CA Fraud and Abuse Control Account,PIK3CA,APOBEC3B,EP300,PIK3CA Fraud and Abuse Control Account,1,b,,,,0.61
+PIK3CA Fraud and Abuse Control Account,PIK3CA,APOBEC3B,EP300,PIK3CA Fraud and Abuse Control Account,1,b,,,,0.767
+EPHA3,PIK3CA,ARNT,EPHA3,,1,g,28.2,0,0,28.2
+Current Operations  Health  Other (E32),PIK3CA,ARNT,EPHA3,,1,g,0,35.7,36.9,72.6
+Current Operations  Hospitals (E36),PIK3CA,ARNT,EPHA3,,0,g,0,60,84.1,144.1
+Current Operations  Hospitals  Other (Disc. 2005) (E38),PIK3CA,ARNT,EPHA3,,0,,0,0,0,0
+ERBB2,PIK3CA,ARNT,ERBB2,,0,g,0,0.9,0.5,1.4
+Construction  Hospitals (F36),PIK3CA,ARNT,ERBB2,,0,g,0,2.2,4,6.2
+Construction  Hospitals  Other (Disc. 2005) (F38),PIK3CA,ARNT,ERBB2,,0,,0,0,0,0
+ERCC3,PIK3CA,ARNT,ERCC3,,1,g,0,0.3,0.3,0.6
+Other Capital Outlay  Hospitals (G36),PIK3CA,ARNT,ERCC3,,1,g,0,0.9,2.3,3.2
+Other Capital Outlay  Hospitals  Other (Disc. 2005) (G38),PIK3CA,ARNT,ERCC3,,1,,0,0,0,0
+Salaries and Expenses,PIK3CA,ASXL1,EVC2,Salaries and Expenses,0,b,,,,0.115
+Salaries and Expenses,PIK3CA,ASXL1,EVC2,Salaries and Expenses,0,b,,,,0.455
+Salaries and Expenses,PIK3CA,ASXL1,EVC2,Salaries and Expenses,0,b,,,,0.373
+Salaries and Expenses,PIK3CA,ASXL1,EVC2,Salaries and Expenses,0,b,,,,0.132
+Salaries and Expenses,PIK3CA,ASXL1,EVC2,Salaries and Expenses,0,b,,,,0.051
+Salaries and Expenses,PIK3CA,ASXL1,EVC2,Salaries and Expenses,0,b,,,,0.947
+Salaries and Expenses,PIK3CA,ASXL1,EVC2,Salaries and Expenses,1,b,,,,2.496
+FAM123B,PIK3CA,ASXL1,FAM123B,,1,,0,0,0,0
+Current Operations  Environmental Health (NEW for 2007) (E27),PIK3CA,ASXL1,FAM123B,,1,,0,0,0,0
+FANCD2,PIK3CA,ASXL1,FANCD2,,1,,0,0,0,0
+Other Capital Outlay  Environmental Health (NEW for 2007) (G27),PIK3CA,ASXL1,FANCD2,,1,,0,0,0,0
+Payment to the PatientCentered Outcomes Research Trust Fund,PIK3CA,BRAF,FBXW7,Payment to the PatientCentered Outcomes Research Trust Fund,0,b,,,,0.15
+"Payment from the General Fund, PatientCentered Outcomes Research Trust Fund",PIK3CA,BRAF,FBXW7,"Payment from the General Fund, PatientCentered Outcomes Research Trust Fund",0,b,,,,0.15
+PatientCentered Outcomes Research Trust Fund,PIK3CA,BRAF,FBXW7,PatientCentered Outcomes Research Trust Fund,0,b,,,,0.265
+Health Resources and Services,PIK3CA,BRAF,FBXW7,Health Resources and Services,0,b,,,,0.569
+Health Resources and Services,PIK3CA,BRAF,FBXW7,Health Resources and Services,0,b,,,,0.144
+CDCWide Activities and Program Support,PIK3CA,BRAF,FBXW7,CDCWide Activities and Program Support,0,b,,,,0.194
+CDCWide Activities and Program Support,PIK3CA,BRAF,FBXW7,CDCWide Activities and Program Support,1,b,,,,0.201
+CDCWide Activities and Program Support,PIK3CA,BRAF,FBXW7,CDCWide Activities and Program Support,1,b,,,,0.712
+National Institutes of Health,PIK3CA,BRAF,FBXW7,National Institutes of Health,1,b,,,,30.314
+National Institutes of Health,PIK3CA,BRAF,FBXW7,National Institutes of Health,1,b,,,,0.167
+Healthcare Research and Quality,PIK3CA,BRAF,FBXW7,Healthcare Research and Quality,1,b,,,,0.138
+Transfers from the PatientCentered Outcomes Research Trust Fund,PIK3CA,BRAF,FBXW7,Transfers from the PatientCentered Outcomes Research Trust Fund,1,b,,,,0.051
+-553,PIK3CA,BRAF,FBXW7,,1,,0,0,0,0
+WDR45,PIK3CA,WDR45,,,1,,0,0,0,0
+Supplemental Payments to UMWA Health Plans,PIK3CA,BRCA1,FGFR1,Supplemental Payments to UMWA Health Plans,1,b,,,,0.175
+Abandoned Mine Reclamation Fund,PIK3CA,BRCA1,FGFR1,Abandoned Mine Reclamation Fund,1,b,,,,0.056
+Payment Where Health Coverage Tax Credit Exceeds Liability for Tax,PIK3CA,BRCA1,FGFR1,Payment Where Health Coverage Tax Credit Exceeds Liability for Tax,1,b,,,,0.189
+Office of the National Coordinator for Health Information Technology,PIK3CA,BRCA1,FGFR1,Office of the National Coordinator for Health Information Technology,0,b,,,,0.418
+Public Health and Social Services Emergency Fund,PIK3CA,BRCA1,FGFR1,Public Health and Social Services Emergency Fund,0,b,,,,0.374
+Public Health and Social Services Emergency Fund,PIK3CA,BRCA1,FGFR1,Public Health and Social Services Emergency Fund,0,b,,,,1.507
+General Departmental Management,PIK3CA,BRCA1,FGFR1,General Departmental Management,0,b,,,,0.426
+Retirement Pay and Medical Benefits for Commissioned Officers,PIK3CA,BRCA1,FGFR1,Retirement Pay and Medical Benefits for Commissioned Officers,0,b,,,,0.526
+Miscellaneous Trust Funds,PIK3CA,BRCA1,FGFR1,Miscellaneous Trust Funds,0,b,,,,0.069
+Office of the Inspector General,PIK3CA,BRCA1,FGFR1,Office of the Inspector General,0,b,,,,0.057
+FHIT MYC (B79),PIK3CA,BRCA1,FHIT,,1,g,337.8,0,0,337.8
+"Current Operations  MYC, Payments to Medicare Trust Fund (NEW for 2007; previous (E73)",PIK3CA,BRCA1,FHIT,,1,g,0,7.1,0,7.1
+"Current Operations  Public MYC, BRCA1 for Medical Care (E74)",PIK3CA,BRCA1,FHIT,,1,g,0,391.3,5.7,397
+Operation of Indian Programs,APC,BRCA2,FOXL2,Operation of Indian Programs,1,b,,,,0.103
+Operation of Indian Programs,APC,BRCA2,FOXL2,Operation of Indian Programs,1,b,,,,0.673
+Payment to Issuer of Qualified School Construction Bonds,APC,BRCA2,FOXL2,Payment to Issuer of Qualified School Construction Bonds,1,b,,,,0.82
+APC Improvement Programs,APC,BRCA2,FOXL2,APC Improvement Programs,0,b,,,,4.426
+APC Improvement Programs,APC,BRCA2,FOXL2,APC Improvement Programs,0,b,,,,0.12
+Indian Student APC,APC,BRCA2,FOXL2,Indian Student APC,0,b,,,,0.123
+Impact Aid,APC,BRCA2,FOXL2,Impact Aid,0,b,,,,1.26
+Supporting Student Success,APC,BRCA2,FOXL2,Supporting Student Success,0,b,,,,0.323
+Accelerating Achievement and Ensuring Equity,APC,BRCA2,FOXL2,Accelerating Achievement and Ensuring Equity,0,b,,,,15.364
+Innovation and Instructional Teams,APC,BRCA2,FOXL2,Innovation and Instructional Teams,0,b,,,,1.305
+Innovation and Instructional Teams,APC,BRCA2,FOXL2,Innovation and Instructional Teams,0,b,,,,0.494
+English Learner APC,APC,BRCA2,FOXL2,English Learner APC,0,b,,,,0.685
+Special APC,APC,BRCA2,FOXL2,Special APC,0,b,,,,12.475
+Special APC,APC,BRCA2,FOXL2,Special APC,1,b,,,,0.208
+"Career, Technical and Adult APC",APC,BRCA2,FOXL2,"Career, Technical and Adult APC",1,b,,,,1.679
+American Jobs Act,APC,BRCA2,FOXL2,American Jobs Act,1,b,,,,19.577
+Federal Payment for School Improvement,APC,BRCA2,FOXL2,Federal Payment for School Improvement,1,b,,,,0.06
+HDAC3,APC,BRCA2,HDAC3,,1,g,104.4,0,0,104.4
+Current Operations  Elementary and Secondary APC (E12),APC,BRCA2,HDAC3,,1,g,0,5.5,407.8,413.3
+Construction  Elementary and Secondary APC (F12),APC,BRCA2,HDAC3,,0,g,0,0.5,39.8,40.3
+Other Capital Outlay  Elementary and Secondary APC (G12),APC,BRCA2,HDAC3,,0,g,0,0.4,16.7,17.1
+Payment Where American Opportunity Credit Exceeds Liability for TAX,APC,BRD3,JAK2,Payment Where American Opportunity Credit Exceeds Liability for TAX,0,b,,,,7.541
+"Federal Family APC Loan Program, Negative Subsidies",APC,BRD3,JAK2,"Federal Family APC Loan Program, Negative Subsidies",0,b,,,,3.39
+"Federal Direct Student Loan Program, Negative Subsidies",APC,BRD3,JAK2,"Federal Direct Student Loan Program, Negative Subsidies",0,b,,,,28.709
+"Federal Perkins Loan, Negative Subsidies",APC,BRD3,JAK2,"Federal Perkins Loan, Negative Subsidies",0,b,,,,0.648
+National Technical Institute for the Deaf,APC,BRD3,JAK2,National Technical Institute for the Deaf,0,b,,,,0.063
+Gallaudet University,APC,BRD3,JAK2,Gallaudet University,0,b,,,,0.124
+Higher APC,APC,BRD3,JAK2,Higher APC,0,b,,,,0.361
+Higher APC,APC,BRD3,JAK2,Higher APC,0,b,,,,1.554
+Higher APC,APC,BRD3,JAK2,Higher APC,0,b,,,,0.444
+Howard University,APC,BRD3,JAK2,Howard University,1,b,,,,0.234
+Student Financial Assistance,APC,BRD3,JAK2,Student Financial Assistance,1,b,,,,24.105
+Student Financial Assistance,APC,BRD3,JAK2,Student Financial Assistance,1,b,,,,13.553
+Student Aid Administration,APC,BRD3,JAK2,Student Aid Administration,0,b,,,,1.041
+Student Aid Administration,APC,BRD3,JAK2,Student Aid Administration,0,b,,,,0.29
+Federal Family APC Loan Liquidating Account,APC,BRD3,JAK2,Federal Family APC Loan Liquidating Account,0,b,,,,0.335
+Federal Student Loan Reserve Fund,APC,BRD3,JAK2,Federal Student Loan Reserve Fund,0,b,,,,0.244
+JAK3,APC,BRD3,JAK3,,0,g,0,21.7,2.2,24
+Current Operations  Other Higher APC (E18),APC,BRD3,JAK3,,0,g,0,170.3,35.7,206
+Construction  Higher APC  Auxiliary Enterprises (F16),APC,BRD3,JAK3,,0,g,0,4,0,4
+Construction  Other Higher APC (F18),APC,BRD3,JAK3,,0,g,0,18.2,4.2,22.4
+Other Capital Outlay  Higher APC  Auxiliary Enterprises (G16),APC,BRD3,JAK3,,0,g,0,0.3,0,0.3
+Other Capital Outlay  Other Higher APC (G18),APC,BRD3,JAK3,,0,g,0,5.1,1,6
+Science,APC,CALML5,KDM4D,Science,0,b,,,,6.47
+Research and Related Activities,APC,CALML5,KDM4D,Research and Related Activities,0,b,,,,5.864
+APC and Human Resources,APC,CALML5,KDM4D,APC and Human Resources,0,b,,,,0.88
+APC and Human Resources,APC,CALML5,KDM4D,APC and Human Resources,0,b,,,,0.15
+Agency Operations and Award Management,APC,CALML5,KDM4D,Agency Operations and Award Management,0,b,,,,0.296
+Major Research Equipment and Facilities Construction,APC,CALML5,KDM4D,Major Research Equipment and Facilities Construction,0,b,,,,0.254
+KDM6A,APC,CALML5,KDM6A,,1,,0,0,0,0
+"Space, science, applications, and technology (254)",APC,CALML5,KDM6A,,1,,0,0,0,0
+Supporting space activities (255),APC,CALML5,KDM6A,,1,,0,0,0,0
+Institute of APC Sciences,APC,CALML5,KEAP1,Institute of APC Sciences,1,b,,,,0.074
+Institute of APC Sciences,APC,CALML5,KEAP1,Institute of APC Sciences,1,b,,,,0.476
+Program Administration,APC,CALML5,KEAP1,Program Administration,1,b,,,,0.452
+"Salaries and Expenses, Library of Congress",APC,CALML5,KEAP1,"Salaries and Expenses, Library of Congress",1,b,,,,0.409
+Books for the Blind and Physically Handicapped: Salaries and Expenses,APC,CALML5,KEAP1,Books for the Blind and Physically Handicapped: Salaries and Expenses,1,b,,,,0.053
+Corporation for Public Broadcasting,APC,CALML5,KEAP1,Corporation for Public Broadcasting,1,b,,,,0.445
+National Endowment for the Arts: Grants and Administration,APC,CALML5,KEAP1,National Endowment for the Arts: Grants and Administration,0,b,,,,0.107
+National Endowment for the Humanities: Grants and Administration,APC,CALML5,KEAP1,National Endowment for the Humanities: Grants and Administration,0,b,,,,0.159
+Salaries and Expenses,APC,CALML5,KEAP1,Salaries and Expenses,0,b,,,,0.664
+Facilities Capital,APC,CALML5,KEAP1,Facilities Capital,0,b,,,,0.158
+"Salaries and Expenses, National Gallery of Art",APC,CALML5,KEAP1,"Salaries and Expenses, National Gallery of Art",0,b,,,,0.129
+Holocaust Memorial Museum,APC,CALML5,KEAP1,Holocaust Memorial Museum,0,b,,,,0.052
+Office of Museum and Library Services: Grants and Administration,APC,CALML5,KEAP1,Office of Museum and Library Services: Grants and Administration,0,b,,,,0.26
+American Jobs Act,APC,CALML5,KMT2A,American Jobs Act,0,b,,,,12.147
+Program Administration,APC,CALML5,KMT2A,Program Administration,0,b,,,,0.102
+Training and Employment Services,APC,CALML5,KMT2A,Training and Employment Services,0,b,,,,2.919
+Training and Employment Services,APC,CALML5,KMT2A,Training and Employment Services,0,b,,,,0.612
+Training and Employment Services,APC,CALML5,KMT2A,Training and Employment Services,0,b,,,,0.156
+Community Service Employment for Older Americans,APC,CALML5,KMT2A,Community Service Employment for Older Americans,0,b,,,,0.351
+State Unemployment Insurance and Employment Service Operations,APC,CALML5,KMT2A,State Unemployment Insurance and Employment Service Operations,0,b,,,,0.078
+Office of Job Corps,APC,CALML5,KMT2A,Office of Job Corps,0,b,,,,1.854
+TAA Community College and Career Training Grant Fund,APC,CALML5,KMT2A,TAA Community College and Career Training Grant Fund,0,b,,,,0.632
+Federal Unemployment Benefits and Allowances,APC,CALML5,KMT2A,Federal Unemployment Benefits and Allowances,1,b,,,,0.793
+Unemployment Trust Fund,APC,CALML5,KMT2A,Unemployment Trust Fund,1,b,,,,0.925
+Unemployment Trust Fund,APC,CALML5,KMT2A,Unemployment Trust Fund,1,b,,,,0.182
+Payment in Lieu of Tax Credit for New Jobs and Wage Increases,APC,CALML5,KMT2A,Payment in Lieu of Tax Credit for New Jobs and Wage Increases,1,b,,,,0.615
+Salaries and Expenses,APC,CALML5,KMT2C,Salaries and Expenses,1,b,,,,0.115
+Salaries and Expenses,APC,CALML5,KMT2C,Salaries and Expenses,0,b,,,,0.233
+Salaries and Expenses,APC,CALML5,KMT2C,Salaries and Expenses,0,b,,,,0.549
+Salaries and Expenses,APC,CALML5,KMT2C,Salaries and Expenses,0,b,,,,0.101
+Office of the Inspector General,APC,CALML5,KMT2C,Office of the Inspector General,0,b,,,,0.082
+Salaries and Expenses,APC,CALML5,KMT2C,Salaries and Expenses,0,b,,,,0.357
+Salaries and Expenses,APC,CALML5,KMT2C,Salaries and Expenses,0,b,,,,0.288
+Rehabilitation Services and Disability Research,APC,CALML5,LAMA1,Rehabilitation Services and Disability Research,0,b,,,,0.137
+Rehabilitation Services and Disability Research,APC,CALML5,LAMA1,Rehabilitation Services and Disability Research,0,b,,,,0.215
+Rehabilitation Services and Disability Research,APC,CALML5,LAMA1,Rehabilitation Services and Disability Research,0,b,,,,3.292
+Salaries and Expenses,APC,CALML5,LAMA1,Salaries and Expenses,0,b,,,,0.084
+Payment to National Service Trust Fund,APC,CALML5,LAMA1,Payment to National Service Trust Fund,0,b,,,,0.209
+Operating Expenses,APC,CALML5,LAMA1,Operating Expenses,0,b,,,,0.266
+Operating Expenses,APC,CALML5,LAMA1,Operating Expenses,0,b,,,,0.536
+"Payment from the General Fund, National Service Trust Fund",APC,CALML5,LAMA1,"Payment from the General Fund, National Service Trust Fund",0,b,,,,0.209
+Gifts and Contributions,APC,CALML5,LAMA1,Gifts and Contributions,0,b,,,,0.181
+Gifts and Contributions,APC,CALML5,LAMA1,Gifts and Contributions,0,b,,,,0.068
+Supporting Healthy Families and Adolescent Development,APC,CALML5,LAMA1,Supporting Healthy Families and Adolescent Development,0,b,,,,0.063
+Supporting Healthy Families and Adolescent Development,APC,CALML5,LAMA1,Supporting Healthy Families and Adolescent Development,1,b,,,,0.47
+Social Services Block Grant,APC,CALML5,LAMA1,Social Services Block Grant,1,b,,,,1.792
+Children and Families Services Programs,APC,CALML5,LAMA1,Children and Families Services Programs,0,b,,,,9.463
+Children and Families Services Programs,APC,CALML5,LAMA1,Children and Families Services Programs,0,b,,,,0.379
+Aging Services Programs,APC,CALML5,LAMA1,Aging Services Programs,0,b,,,,1.756
+LSS,APC,CALML5,LSS,,0,,0,0,0,0
+Current Operations  State APC  Other (E21),APC,CALML5,LSS,,0,g,0,16.4,0,16.4
+Current Operations  Libraries (E52),APC,CALML5,LSS,,0,g,0,0.4,9.4,9.8
+Construction  State APC  Other (F21),APC,CALML5,LSS,,0,g,0,0.9,0,0.9
+Construction  Libraries (F52),APC,CALML5,LSS,,0,g,0,0,0.8,0.8
+Other Capital Outlay  State APC  Other (G21),APC,CALML5,LSS,,0,g,0,0.2,0,0.2
+Other Capital Outlay  Libraries (G52),APC,CALML5,LSS,,0,g,0,0,0.5,0.6
+Assistance and Subsidies  State Scholarships and Other Subsidies  APC (J19),APC,CALML5,LSS,,0,g,0,26.9,0,26.9
+"Recoveries under the Foreign Military Sales Program, Navy",KRAS,CASC5,MDN1,"Recoveries under the Foreign Military Sales Program, Navy",0,b,,,,0.156
+"General Fund Proprietary Receipts, not Otherwise Classified, Navy",KRAS,CASC5,MDN1,"General Fund Proprietary Receipts, not Otherwise Classified, Navy",0,b,,,,0.082
+"General Fund Proprietary Receipts, not Otherwise Classified, Army",KRAS,CASC5,MDN1,"General Fund Proprietary Receipts, not Otherwise Classified, Army",0,b,,,,0.068
+"General Fund Proprietary Receipts, not Otherwise Classified, Air Force",KRAS,CASC5,MDN1,"General Fund Proprietary Receipts, not Otherwise Classified, Air Force",0,b,,,,0.097
+"General Fund Proprietary Receipts, not Otherwise Classified, KRAS Agencies",KRAS,CASC5,MDN1,"General Fund Proprietary Receipts, not Otherwise Classified, KRAS Agencies",0,b,,,,0.087
+Contributions for Burdensharing and Other Cooperative Activities (Kuwait),KRAS,CASC5,MDN1,Contributions for Burdensharing and Other Cooperative Activities (Kuwait),0,b,,,,0.213
+Contributions for Burdensharing and Other Cooperative Activities (Japan),KRAS,CASC5,MDN1,Contributions for Burdensharing and Other Cooperative Activities (Japan),0,b,,,,0.322
+Contributions for Burdensharing and Other Cooperative Activities (So. Korea),KRAS,CASC5,MDN1,Contributions for Burdensharing and Other Cooperative Activities (So. Korea),0,b,,,,0.37
+Payment to Voluntary Separation Incentive Fund,KRAS,CASC5,MDN1,Payment to Voluntary Separation Incentive Fund,1,b,,,,0.055
+"Operation and Maintenance, Defensewide",KRAS,CASC5,MDN1,"Operation and Maintenance, Defensewide",1,b,,,,41.696
+Drug Interdiction and CounterDrug Activities,KRAS,CASC5,MDN1,Drug Interdiction and CounterDrug Activities,1,b,,,,1.482
+Office of the Inspector General,KRAS,CASC5,MDN1,Office of the Inspector General,1,b,,,,0.304
+"Operation and Maintenance, Marine Corps",KRAS,CASC5,MDN1,"Operation and Maintenance, Marine Corps",0,b,,,,9.65
+"Operation and Maintenance, Marine Corps Reserve",KRAS,CASC5,MDN1,"Operation and Maintenance, Marine Corps Reserve",0,b,,,,0.309
+Department of KRAS Acquisition Workforce Development Fund,KRAS,CASC5,MDN1,Department of KRAS Acquisition Workforce Development Fund,0,b,,,,0.251
+KRAS Health Program,KRAS,CASC5,MDN1,KRAS Health Program,0,b,,,,33.605
+Cooperative Threat Reduction Account,KRAS,CASC5,MDN1,Cooperative Threat Reduction Account,0,b,,,,0.393
+"Operation and Maintenance, Navy",KRAS,CASC5,MDN1,"Operation and Maintenance, Navy",0,b,,,,46.692
+"Operation and Maintenance, Navy Reserve",KRAS,CASC5,MDN1,"Operation and Maintenance, Navy Reserve",0,b,,,,1.349
+"Operation and Maintenance, Army",KRAS,CASC5,MDN1,"Operation and Maintenance, Army",0,b,,,,76.108
+"Operation and Maintenance, Army National Guard",KRAS,CASC5,MDN1,"Operation and Maintenance, Army National Guard",0,b,,,,7.377
+"Operation and Maintenance, Army Reserve",KRAS,CASC5,MDN1,"Operation and Maintenance, Army Reserve",0,b,,,,3.212
+Afghanistan Security Forces Fund,KRAS,CASC5,MDN1,Afghanistan Security Forces Fund,0,b,,,,8.809
+Iraq Security Forces Fund,KRAS,CASC5,MDN1,Iraq Security Forces Fund,0,b,,,,0.465
+Afghanistan Infrastructure Fund,KRAS,CASC5,MDN1,Afghanistan Infrastructure Fund,1,b,,,,0.356
+"Operation and Maintenance, Air Force",KRAS,CASC5,MDN1,"Operation and Maintenance, Air Force",1,b,,,,50.33
+"Operation and Maintenance, Air Force Reserve",KRAS,CASC5,MDN1,"Operation and Maintenance, Air Force Reserve",1,b,,,,3.307
+"Operation and Maintenance, Air National Guard",KRAS,CASC5,MDN1,"Operation and Maintenance, Air National Guard",1,b,,,,6.064
+Military Intelligence Program Transfer Fund,KRAS,CASC5,MDN1,Military Intelligence Program Transfer Fund,1,b,,,,0.078
+The Department of KRAS Environmental Restoration Accounts,KRAS,CASC5,MDN1,The Department of KRAS Environmental Restoration Accounts,1,b,,,,0.951
+"Environmental Restoration, Formerly Used KRAS Sites",KRAS,CASC5,MDN1,"Environmental Restoration, Formerly Used KRAS Sites",1,b,,,,0.225
+"Overseas Humanitarian, Disaster, and Civic Aid",KRAS,CASC5,MDN1,"Overseas Humanitarian, Disaster, and Civic Aid",1,b,,,,0.162
+Allied Contributions and Cooperation Account,KRAS,CASC5,MDN1,Allied Contributions and Cooperation Account,1,b,,,,0.904
+"Procurement, Marine Corps",KRAS,CASC5,MDN1,"Procurement, Marine Corps",1,b,,,,2.598
+Mine Resistant Ambush Protected Vehicle Fund,KRAS,CASC5,MDN1,Mine Resistant Ambush Protected Vehicle Fund,1,b,,,,0.78
+"Aircraft Procurement, Navy",KRAS,CASC5,MDN1,"Aircraft Procurement, Navy",1,b,,,,18.601
+"Weapons Procurement, Navy",KRAS,CASC5,MDN1,"Weapons Procurement, Navy",1,b,,,,3.32
+"Procurement of Ammunition, Navy and Marine Corps",KRAS,CASC5,MDN1,"Procurement of Ammunition, Navy and Marine Corps",0,b,,,,1.322
+"Shipbuilding and Conversion, Navy",KRAS,CASC5,MDN1,"Shipbuilding and Conversion, Navy",0,b,,,,14.034
+"Other Procurement, Navy",KRAS,CASC5,MDN1,"Other Procurement, Navy",0,b,,,,5.595
+"Aircraft Procurement, Army",KRAS,CASC5,MDN1,"Aircraft Procurement, Army",0,b,,,,6.818
+"Missile Procurement, Army",KRAS,CASC5,MDN1,"Missile Procurement, Army",0,b,,,,1.694
+"Procurement of Weapons and Tracked Combat Vehicles, Army",KRAS,CASC5,MDN1,"Procurement of Weapons and Tracked Combat Vehicles, Army",0,b,,,,3.114
+"Procurement of Ammunition, Army",KRAS,CASC5,MDN1,"Procurement of Ammunition, Army",0,b,,,,2.946
+"Other Procurement, Army",KRAS,CASC5,MDN1,"Other Procurement, Army",0,b,,,,12.416
+Joint Improvised Explosive Device Defeat Fund,KRAS,CASC5,MDN1,Joint Improvised Explosive Device Defeat Fund,0,b,,,,2.052
+"Procurement, Defensewide",KRAS,CASC5,MDN1,"Procurement, Defensewide",0,b,,,,4.658
+"Aircraft Procurement, Air Force",KRAS,CASC5,MDN1,"Aircraft Procurement, Air Force",0,b,,,,15.824
+"Procurement of Ammunition, Air Force",KRAS,CASC5,MDN1,"Procurement of Ammunition, Air Force",0,b,,,,0.928
+"Missile Procurement, Air Force",KRAS,CASC5,MDN1,"Missile Procurement, Air Force",0,b,,,,5.747
+Joint Urgent Operational Needs Fund,KRAS,CASC5,MDN1,Joint Urgent Operational Needs Fund,0,b,,,,0.065
+"Other Procurement, Air Force",KRAS,CASC5,MDN1,"Other Procurement, Air Force",1,b,,,,19.494
+National Guard and Reserve Equipment,KRAS,CASC5,MDN1,National Guard and Reserve Equipment,1,b,,,,0.999
+KRAS Production Act Purchases,KRAS,CASC5,MDN1,KRAS Production Act Purchases,1,b,,,,0.136
+"Chemical Agents and Munitions Destruction, KRAS",KRAS,CASC5,MDN1,"Chemical Agents and Munitions Destruction, KRAS",1,b,,,,1.417
+"Research, Development, Test and Evaluation, Navy",KRAS,CASC5,MDN1,"Research, Development, Test and Evaluation, Navy",1,b,,,,17.416
+"Research, Development, Test and Evaluation, Army",KRAS,CASC5,MDN1,"Research, Development, Test and Evaluation, Army",0,b,,,,9.579
+"Research, Development, Test and Evaluation, Air Force",KRAS,CASC5,MDN1,"Research, Development, Test and Evaluation, Air Force",0,b,,,,26.151
+"Research, Development, Test and Evaluation, Defensewide",KRAS,CASC5,MDN1,"Research, Development, Test and Evaluation, Defensewide",0,b,,,,18.492
+"Operational Test and Evaluation, KRAS",KRAS,CASC5,MDN1,"Operational Test and Evaluation, KRAS",0,b,,,,0.182
+"Military Construction, Navy and Marine Corps",KRAS,CASC5,MDN1,"Military Construction, Navy and Marine Corps",0,b,,,,3.267
+"Military Construction, Navy Reserve",KRAS,CASC5,MDN1,"Military Construction, Navy Reserve",0,b,,,,0.083
+"Military Construction, Army",KRAS,CASC5,MDN1,"Military Construction, Army",0,b,,,,7.286
+"Military Construction, Army National Guard",KRAS,CASC5,MDN1,"Military Construction, Army National Guard",0,b,,,,0.723
+"Military Construction, Army Reserve",KRAS,CASC5,MDN1,"Military Construction, Army Reserve",0,b,,,,0.342
+"Military Construction, Air Force",KRAS,CASC5,MDN1,"Military Construction, Air Force",0,b,,,,1.492
+"Military Construction, Air National Guard",KRAS,CASC5,MDN1,"Military Construction, Air National Guard",0,b,,,,0.251
+"Chemical Demilitarization Construction, Defensewide",KRAS,CASC5,MDN1,"Chemical Demilitarization Construction, Defensewide",0,b,,,,0.12
+"Military Construction, Defensewide",KRAS,CASC5,MDN1,"Military Construction, Defensewide",0,b,,,,3.621
+Department of KRAS Base Closure Account 1990,KRAS,CASC5,MDN1,Department of KRAS Base Closure Account 1990,0,b,,,,0.365
+Department of KRAS Base Closure Account 2005,KRAS,CASC5,MDN1,Department of KRAS Base Closure Account 2005,0,b,,,,1.337
+North Atlantic Treaty Organization Security Investment Program,KRAS,CASC5,MDN1,North Atlantic Treaty Organization Security Investment Program,0,b,,,,0.472
+"Family DCLRE1C Construction, Army",KRAS,CASC5,MDN1,"Family DCLRE1C Construction, Army",1,b,,,,0.144
+"Family DCLRE1C Operation and Maintenance, Army",KRAS,CASC5,MDN1,"Family DCLRE1C Operation and Maintenance, Army",1,b,,,,0.582
+"Family DCLRE1C Construction, Navy and Marine Corps",KRAS,CASC5,MDN1,"Family DCLRE1C Construction, Navy and Marine Corps",1,b,,,,0.098
+"Family DCLRE1C Operation and Maintenance, Navy and Marine Corps",KRAS,CASC5,MDN1,"Family DCLRE1C Operation and Maintenance, Navy and Marine Corps",1,b,,,,0.378
+"Family DCLRE1C Construction, Air Force",KRAS,CASC5,MDN1,"Family DCLRE1C Construction, Air Force",1,b,,,,0.301
+"Family DCLRE1C Operation and Maintenance, Air Force",KRAS,CASC5,MDN1,"Family DCLRE1C Operation and Maintenance, Air Force",1,b,,,,0.48
+"Family DCLRE1C Operation and Maintenance, DefenseWide",KRAS,CASC5,MDN1,"Family DCLRE1C Operation and Maintenance, DefenseWide",1,b,,,,0.051
+National KRAS Sealift Fund,KRAS,CASC5,MDN1,National KRAS Sealift Fund,0,b,,,,1.543
+"Working Capital Fund, Army",KRAS,CASC5,MDN1,"Working Capital Fund, Army",0,b,,,,1.609
+"Working Capital Fund, Navy",KRAS,CASC5,MDN1,"Working Capital Fund, Navy",0,b,,,,0.051
+"Working Capital Fund, Air Force",KRAS,CASC5,MDN1,"Working Capital Fund, Air Force",0,b,,,,0.51
+"Working Capital Fund, KRAS Commissary Agency",KRAS,CASC5,MDN1,"Working Capital Fund, KRAS Commissary Agency",0,b,,,,1.409
+CDCWide Activities and Program Support,KRAS,CASC5,MED12L,CDCWide Activities and Program Support,0,b,,,,0.055
+"Payment from the General Fund, Radiation Exposure Compensation Trust Fund",KRAS,CASC5,MET,"Payment from the General Fund, Radiation Exposure Compensation Trust Fund",1,b,,,,0.06
+Salaries and Expenses,KRAS,CASC5,MET,Salaries and Expenses,1,b,,,,5.041
+Payment to Radiation Exposure Compensation Trust Fund,KRAS,CASC5,MET,Payment to Radiation Exposure Compensation Trust Fund,1,b,,,,0.06
+Radiation Exposure Compensation Trust Fund,KRAS,CASC5,MET,Radiation Exposure Compensation Trust Fund,1,b,,,,0.06
+Payment to Military Retirement Fund,KRAS,CASC5,MET,Payment to Military Retirement Fund,1,b,,,,67.179
+"Federal Contributions, Military Retirement Fund",KRAS,CASC5,MET,"Federal Contributions, Military Retirement Fund",1,b,,,,67.179
+"Federal Contributions, DoD MedicareEligible Retiree PIK3CA Fund",KRAS,CASC5,MET,"Federal Contributions, DoD MedicareEligible Retiree PIK3CA Fund",1,b,,,,3.633
+Payment to Department of KRAS MedicareEligible Retiree PIK3CA Fund,KRAS,CASC5,MET,Payment to Department of KRAS MedicareEligible Retiree PIK3CA Fund,1,b,,,,3.633
+Maritime Security Program,KRAS,CASC5,MET,Maritime Security Program,0,b,,,,0.184
+Operating Expenses,KRAS,CASC5,MET,Operating Expenses,0,b,,,,0.342
+Infrastructure Protection and Information Security,KRAS,CASC5,MET,Infrastructure Protection and Information Security,0,b,,,,1.259
+Salaries and Expenses,KRAS,CASC5,MET,Salaries and Expenses,0,b,,,,0.066
+Central Intelligence Agency Retirement and Disability System Fund,KRAS,CASC5,MET,Central Intelligence Agency Retirement and Disability System Fund,0,b,,,,0.514
+Research and Related Activities,KRAS,CASC5,MET,Research and Related Activities,0,b,,,,0.054
+Intelligence Community Management Account,KRAS,CASC5,MET,Intelligence Community Management Account,0,b,,,,0.553
+"NSLI Fund, Premium and Other Receipts",KRAS,CCAR1,MLL3,"NSLI Fund, Premium and Other Receipts",0,b,,,,0.069
+Compensation and PTEN,KRAS,CCAR1,MLL3,Compensation and PTEN,0,b,,,,0.221
+CCAR1 Insurance and Indemnities,KRAS,CCAR1,MLL3,CCAR1 Insurance and Indemnities,1,b,,,,0.105
+Foreign Military Sales Trust Fund,KRAS,CDKN2A,OR6V1,Foreign Military Sales Trust Fund,0,b,,,,30.867
+ExportImport Bank Loans Program Account,KRAS,CDKN2A,OR6V1,ExportImport Bank Loans Program Account,0,b,,,,0.403
+"ExportImport Bank Loans, Negative Subsidies",KRAS,CDKN2A,OR6V1,"ExportImport Bank Loans, Negative Subsidies",0,b,,,,0.364
+International cooperation (156),KRAS,CDKN2A,OR6V1,,0,,0,0,0,0
+Emergency Food and Shelter,MYC,CREBBP,PDGFRB,Emergency Food and Shelter,0,b,,,,0.1
+"Funds for Strengthening Markets, Income, and Supply (section 32)",MYC,CREBBP,PDGFRB,"Funds for Strengthening Markets, Income, and Supply (section 32)",0,b,,,,1.044
+Supplemental Nutrition Assistance Program,MYC,CREBBP,PDGFRB,Supplemental Nutrition Assistance Program,0,b,,,,7.034
+Supplemental Nutrition Assistance Program,MYC,CREBBP,PDGFRB,Supplemental Nutrition Assistance Program,0,b,,,,75.716
+Commodity Assistance Program,MYC,CREBBP,PDGFRB,Commodity Assistance Program,0,b,,,,0.254
+Nutrition Programs Administration,MYC,CREBBP,PDGFRB,Nutrition Programs Administration,0,b,,,,0.146
+"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",MYC,CREBBP,PDGFRB,"Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)",0,b,,,,7.427
+Child Nutrition Programs,MYC,CREBBP,PDGFRB,Child Nutrition Programs,0,b,,,,19.768
+Child Nutrition Programs,MYC,CREBBP,PDGFRB,Child Nutrition Programs,0,b,,,,0.191
+PEG3,MYC,CREBBP,PEG3,,0,,0,0,0,0
+"Current Operations  MYC, Cash Assistance  Other (Disc. 2005) (E68)",MYC,CREBBP,PEG3,,1,,0,0,0,0
+"Assistance and Subsidies  Public MYC, Federal Categorical Assistance Programs (J67)",MYC,CREBBP,PEG3,,1,g,0,7.6,9.3,16.9
+"Assistance and Subsidies  Public MYC, Cash Assistance Programs  Other (J68)",MYC,CREBBP,PEG3,,1,g,0,6.8,2.6,9.4
+Salaries and Expenses,MYC,CTNND1,PIK3R3,Salaries and Expenses,1,b,,,,0.183
+Pension Benefit Guaranty Corporation Fund,MYC,CTNND1,PIK3R3,Pension Benefit Guaranty Corporation Fund,1,b,,,,1.575
+Special Benefits for Disabled Coal Miners,MYC,CTNND1,PIK3R3,Special Benefits for Disabled Coal Miners,1,b,,,,0.168
+Black Lung Disability Trust Fund,MYC,CTNND1,PIK3R3,Black Lung Disability Trust Fund,1,b,,,,0.309
+Special Workers' Compensation Expenses,MYC,CTNND1,PIK3R3,Special Workers' Compensation Expenses,1,b,,,,0.147
+Interest Payments on Repayable Advances to the Black Lung Disability Trust Fund,MYC,CTNND1,PIK3R3,Interest Payments on Repayable Advances to the Black Lung Disability Trust Fund,1,b,,,,0.057
+Payment of Interest on Advances to the Railroad Retirement Board,MYC,CTNND1,PIK3R3,Payment of Interest on Advances to the Railroad Retirement Board,0,b,,,,0.106
+Federal Payment to the District of Columbia Pension Fund,MYC,CTNND1,PIK3R3,Federal Payment to the District of Columbia Pension Fund,0,b,,,,0.469
+"Federal Contribution, DC Federal Pension Fund",MYC,CTNND1,PIK3R3,"Federal Contribution, DC Federal Pension Fund",0,b,,,,0.469
+District of Columbia Federal Pension Fund,MYC,CTNND1,PIK3R3,District of Columbia Federal Pension Fund,0,b,,,,0.554
+Federal Payments to the Railroad Retirement Accounts,MYC,CTNND1,PIK3R3,Federal Payments to the Railroad Retirement Accounts,0,b,,,,0.544
+"Railroad Social Security Equivalent Benefit Account, Income Tax Credits",MYC,CTNND1,PIK3R3,"Railroad Social Security Equivalent Benefit Account, Income Tax Credits",0,b,,,,0.211
+"Railroad Social Security Equivalent Benefit Account, Receipts from Federal Oldage Survivors Ins. Trust Fund",MYC,CTNND1,PIK3R3,"Railroad Social Security Equivalent Benefit Account, Receipts from Federal Oldage Survivors Ins. Trust Fund",0,b,,,,3.837
+"Railroad Social Security Equivalent Benefit Account, Receipts from Federal Disability Insurance Trust Fund",MYC,CTNND1,PIK3R3,"Railroad Social Security Equivalent Benefit Account, Receipts from Federal Disability Insurance Trust Fund",0,b,,,,0.485
+Railroad Social Security Equivalent Benefit Account,MYC,CTNND1,PIK3R3,Railroad Social Security Equivalent Benefit Account,0,b,,,,6.887
+"Payment from the National Railroad Retirement Investment Trust, Rail Industry Pension Fund",MYC,CTNND1,PIK3R3,"Payment from the National Railroad Retirement Investment Trust, Rail Industry Pension Fund",0,b,,,,1.983
+"Federal Payments to Railroad Retirement Trust Funds, Rail Industry Pension Fund",MYC,CTNND1,PIK3R3,"Federal Payments to Railroad Retirement Trust Funds, Rail Industry Pension Fund",0,b,,,,0.333
+Rail Industry Pension Fund,MYC,CTNND1,PIK3R3,Rail Industry Pension Fund,1,b,,,,0.074
+Rail Industry Pension Fund,MYC,CTNND1,PIK3R3,Rail Industry Pension Fund,1,b,,,,4.984
+National Railroad Retirement Investment Trust,MYC,CTNND1,PIK3R3,National Railroad Retirement Investment Trust,1,b,,,,2.061
+Workers Compensation  Benefit Payments (Y14),MYC,CTNND1,PIK3R3,,1,g,0,12.1,0,12.1
+"Troubled Asset Relief Program, DCLRE1C Programs",MYC,DCLRE1C,PKHD1L1,"Troubled Asset Relief Program, DCLRE1C Programs",1,b,,,,12.148
+DCLRE1C Personnel Compensation and Benefits,MYC,DCLRE1C,PKHD1L1,DCLRE1C Personnel Compensation and Benefits,1,b,,,,0.399
+"Administration, Operations and Management",MYC,DCLRE1C,PKHD1L1,"Administration, Operations and Management",1,b,,,,0.531
+Public and Indian DCLRE1C Personnel Compensation and Benefits,MYC,DCLRE1C,PKHD1L1,Public and Indian DCLRE1C Personnel Compensation and Benefits,1,b,,,,0.211
+Public DCLRE1C Operating Fund,MYC,DCLRE1C,PKHD1L1,Public DCLRE1C Operating Fund,1,b,,,,4.276
+Revitalization of Severely Distressed Public DCLRE1C (HOPE VI),MYC,DCLRE1C,PKHD1L1,Revitalization of Severely Distressed Public DCLRE1C (HOPE VI),1,b,,,,0.15
+Tenant Based Rental Assistance,MYC,DCLRE1C,PKHD1L1,Tenant Based Rental Assistance,1,b,,,,19.092
+Projectbased Rental Assistance,MYC,DCLRE1C,PKHD1L1,Projectbased Rental Assistance,1,b,,,,0.26
+Projectbased Rental Assistance,MYC,DCLRE1C,PKHD1L1,Projectbased Rental Assistance,1,b,,,,9.22
+Public DCLRE1C Capital Fund,MYC,DCLRE1C,PKHD1L1,Public DCLRE1C Capital Fund,1,b,,,,2.371
+Native American DCLRE1C Block Grant,MYC,DCLRE1C,PKHD1L1,Native American DCLRE1C Block Grant,1,b,,,,0.653
+DCLRE1C Certificate Fund,MYC,DCLRE1C,PKHD1L1,DCLRE1C Certificate Fund,0,b,,,,0.808
+Selfhelp Homeownership Opportunity Program,MYC,DCLRE1C,PKHD1L1,Selfhelp Homeownership Opportunity Program,0,b,,,,0.076
+Homeless Assistance Grants,MYC,DCLRE1C,PKHD1L1,Homeless Assistance Grants,0,b,,,,0.707
+Homeless Assistance Grants,MYC,DCLRE1C,PKHD1L1,Homeless Assistance Grants,0,b,,,,1.204
+Home Investment Partnership Program,MYC,DCLRE1C,PKHD1L1,Home Investment Partnership Program,0,b,,,,1.611
+DCLRE1C Opportunities for Persons with AIDS,MYC,DCLRE1C,PKHD1L1,DCLRE1C Opportunities for Persons with AIDS,0,b,,,,0.331
+Other Assisted DCLRE1C Programs,MYC,DCLRE1C,PKHD1L1,Other Assisted DCLRE1C Programs,0,b,,,,0.367
+DCLRE1C for Persons with Disabilities,MYC,DCLRE1C,PKHD1L1,DCLRE1C for Persons with Disabilities,0,b,,,,0.251
+DCLRE1C for the Elderly,MYC,DCLRE1C,PKHD1L1,DCLRE1C for the Elderly,0,b,,,,1.005
+Affordable DCLRE1C Program,MYC,DCLRE1C,PKHD1L1,Affordable DCLRE1C Program,0,b,,,,0.198
+Rental Assistance Program,MYC,DCLRE1C,PKHD1L1,Rental Assistance Program,0,b,,,,0.953
+PTPRT,MYC,DCLRE1C,PTPRT,,0,g,48.9,0,0,48.9
+Current Operations  DCLRE1C and Community Development (E50),MYC,DCLRE1C,PTPRT,,0,g,0,11.4,41.9,53.3
+Construction  DCLRE1C and Community Development (F50),MYC,DCLRE1C,PTPRT,,0,g,0,0,5.2,5.2
+Other Capital Outlay  DCLRE1C and Community Development (G50),MYC,DCLRE1C,PTPRT,,1,g,0,0.1,1.2,1.3
+Payment Where Earned Income Credit Exceeds Liability for Tax,MYC,DNMT3A,RPS6KB2,Payment Where Earned Income Credit Exceeds Liability for Tax,1,b,,,,52.615
+Payment Where Child Tax Credit Exceeds Liability for Tax,MYC,DNMT3A,RPS6KB2,Payment Where Child Tax Credit Exceeds Liability for Tax,1,b,,,,23.045
+Payment Where Alternative Minimum Tax Credit Exceeds Liability for Tax,MYC,DNMT3A,RPS6KB2,Payment Where Alternative Minimum Tax Credit Exceeds Liability for Tax,1,b,,,,0.075
+Payment Where Adoption Credit Exceeds Liability for Tax,MYC,DNMT3A,RPS6KB2,Payment Where Adoption Credit Exceeds Liability for Tax,1,b,,,,0.355
+Receipts from SSI Administrative Fee,MYC,DNMT3A,RPS6KB2,Receipts from SSI Administrative Fee,0,b,,,,0.139
+Recovery of Beneficiary Overpayments from SSI Program,MYC,DNMT3A,RPS6KB2,Recovery of Beneficiary Overpayments from SSI Program,0,b,,,,3.202
+Supplemental Security Income Program,MYC,DNMT3A,RPS6KB2,Supplemental Security Income Program,0,b,,,,3.915
+Supplemental Security Income Program,MYC,DNMT3A,RPS6KB2,Supplemental Security Income Program,0,b,,,,54.36
+"State Supplemental Fees, SSI",MYC,DNMT3A,RPS6KB2,"State Supplemental Fees, SSI",0,b,,,,0.17
+State Supplemental Fees,MYC,DNMT3A,RPS6KB2,State Supplemental Fees,0,b,,,,0.157
+Federal Share of Child Support Collections,MYC,DNMT3A,RPS6KB2,Federal Share of Child Support Collections,0,b,,,,1.045
+Payments to States for Child Support Enforcement and Family Support Programs,MYC,DNMT3A,RPS6KB2,Payments to States for Child Support Enforcement and Family Support Programs,0,b,,,,3.873
+Low Income Home Energy Assistance,MYC,DNMT3A,RPS6KB2,Low Income Home Energy Assistance,0,b,,,,3.338
+Refugee and Entrant Assistance,MYC,DNMT3A,RPS6KB2,Refugee and Entrant Assistance,0,b,,,,0.722
+Refugee and Entrant Assistance,MYC,DNMT3A,RPS6KB2,Refugee and Entrant Assistance,0,b,,,,0.108
+Payments to States for the Child Care and Development Block Grant,MYC,DNMT3A,RPS6KB2,Payments to States for the Child Care and Development Block Grant,0,b,,,,2.452
+Contingency Fund,MYC,DNMT3A,RPS6KB2,Contingency Fund,0,b,,,,0.393
+Payments for Foster Care and Permanency,MYC,DNMT3A,RPS6KB2,Payments for Foster Care and Permanency,0,b,,,,7.17
+Child Care Entitlement to States,MYC,DNMT3A,RPS6KB2,Child Care Entitlement to States,0,b,,,,3.286
+Temporary Assistance for Needy Families,MYC,DNMT3A,RPS6KB2,Temporary Assistance for Needy Families,0,b,,,,17.306
+Children's Research and Technical Assistance,MYC,DNMT3A,RPS6KB2,Children's Research and Technical Assistance,0,b,,,,0.068
+RYR1,MYC,DNMT3A,RYR1,,1,g,0,12.1,1.5,13.5
+Current Operations  Public MYC Institutions (E77),MYC,DNMT3A,RYR1,,1,g,0,1.9,4.5,6.4
+Current Operations  Public MYC  Other (E79),MYC,DNMT3A,RYR1,,1,g,0,39.6,31.9,71.5
+SALL1,MYC,DNMT3A,SALL1,,1,,0,0,0,0
+Construction  Public MYC Institutions (F77),MYC,DNMT3A,SALL1,,1,g,0,0,0,0
+Construction  Public MYC  Other (F79),MYC,DNMT3A,SALL1,,1,g,0,0.2,0.1,0.3
+"Other Capital Outlay  Public MYC, BRCA1 for Other Purposes (G75)",MYC,DNMT3A,SALL1,,1,,0,0,0,0
+Other Capital Outlay  Public MYC Institutions (G77),MYC,DNMT3A,SALL1,,1,g,0,0,0.1,0.1
+Other Capital Outlay  Public MYC  Other (G79),MYC,DNMT3A,SALL1,,1,g,0,0.3,0.2,0.5
+,,Level2,Level3,Level4,,,,,,

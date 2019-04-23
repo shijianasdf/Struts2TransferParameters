@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN" "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+    <!--  <constant name="struts.multipart.saveDir" value="/tmp"/> -->
+	<constant name="struts.devMode" value="true" />	
+	<constant name="struts.multipart.maxSize" value="2048000000"/>
+	<package name="default" extends="struts-default,json-default" namespace="/">
+		<default-action-ref name="index"></default-action-ref> 
+		<global-results>
+			<result name="error">jsp/error.jsp</result>
+		</global-results>
+		<global-exception-mappings>
+			<exception-mapping exception="java.lang.Exception" result="error" />
+		</global-exception-mappings>
+		<action name="index">
+			<result>index.jsp</result>
+		</action>
+	    <action name="test" class="actions.TestAction" method="execute">
+	    	<result name="success">jsp/hello.jsp</result>
+	    </action>
+	     <action name="testsession" class="actions.TestAction" method="test">
+	    	<result name="success">jsp/session.jsp</result>
+	    </action>
+	    
+	    <action name="Search" class="actions.TestAction" method="Search">
+	    	<result type="chain" name="lala">test</result>
+	    </action>
+	    
+	    <action name="TestForm" class="actions.TestFormAction" method="TestForm">
+	    	<result name="success">jsp/test.jsp</result>
+	    </action>
+	</package>
+</struts>
