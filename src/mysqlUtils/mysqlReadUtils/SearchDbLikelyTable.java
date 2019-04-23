@@ -7,7 +7,7 @@ import java.util.ArrayList;
 public class SearchDbLikelyTable {
 	private String tableName;
 	
-	// 模糊匹配，根据多个条件，返回一个 table
+	// 模糊匹配，根据多个条件，返回一个 hql指令
 	//
 	// 参数说明
 	// 1-3.	conn, dbName, tableName 望文生意
@@ -22,7 +22,7 @@ public class SearchDbLikelyTable {
 	//			则 conditionTypeList 中输入 ") AND (", " OR "
 	//		例三，如果希望得到 select * from * where (* like A) AND (* like B) OR (* like C)
 	//			则 conditionTypeList 中输入 ") AND (", ") OR ("
-	// 返回 ArrayList<ArrayList<String>>
+	// 返回 hql指令
 	public String queryTableMC(String selectedCols, ArrayList<String> keyCols, ArrayList<String> keyValues, ArrayList<String> conditionTypeList, String notEqualCol, String notEqualValue){
 		// 建立 mysql 指令
 		// 如果 keyCols 中只有一个值，那么等同于单条件搜索的结果
@@ -46,13 +46,13 @@ public class SearchDbLikelyTable {
 		return mysqlStr;
 	}
 
-	// 模糊匹配，根据单个条件，返回一个 table
+	// 模糊匹配，根据单个条件，返回一个 hql指令
 	//
 	// 参数说明
 	// 1-3.	conn, dbName, tableName 望文生意
 	// 4.	selectedCols 返回的列，以逗号空格 ", " 分隔的 String 型
 	// 5-6.	基于 keyCol 和 keyValue 搜索结果，String
-	// 返回 ArrayList<ArrayList<String>>
+	// 返回 hql指令
 	public String queryTableSC(String selectedCols, String keyCol, String keyValue){
 		// 建立 mysql 指令
 		String mysqlStr = "";
