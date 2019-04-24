@@ -38,6 +38,7 @@ out.print(sd);
 out.print(name);
 out.print(age);
 %>
+<%=(String)session.getAttribute("age")%>
 <a href="testsession">session</a>
 <!-- <s:property  value="#request.key"/>
 <s:property  value="#request.tea"/>
